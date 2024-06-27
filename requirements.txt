@@ -1,0 +1,9 @@
+pandas==2.0.3
+numpy==1.25.2
+re==2.2.1
+scipy==1.11.4
+matplotlib==3.7.1
+seaborn==0.13.1
+joblib==1.4.2
+scikit-learn==1.2.2
+xgboost==2.0.3
