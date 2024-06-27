@@ -38,7 +38,7 @@ Setup environment:
 ```
 streamlit run app.py
 ```
-Link Streamlit App Prediction: [Streamlit Web App](https://student-dropout-analysis-msyarif.streamlit.app/)
+Link Streamlit App Prediction: [Streamlit Web App](https://credit-score-segmentation.streamlit.app/)
 
 ## Insight
 
