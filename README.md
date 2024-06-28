@@ -1,4 +1,4 @@
-# Credit Scoring Analysis
+# Credit Scoring Segmentation
 
 ## Business Understanding
 
