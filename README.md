@@ -10,7 +10,7 @@ Tahapan pemeriksaan risiko kredit sepenuhnya dilakukan secara manual oleh tim Ri
 
 ### Cakupan Proyek
 
-Untuk menjawab permasalahan bisnis tersebut, kita akan menggunakan data yang telah dikumpulkan tersebut untuk mengembangkan sebuah sistem berbasis machine learning untuk memprediksi risiko kredit dari seorang pelanggan. Pada proses pengembangannya, kita akan bereksperimen dengan berbagai pendekatan atau algoritma machine learning serta membandingkannya untuk memperoleh model dengan performa terbaik, kemudian kita juga kembangkan sebuah prototipe sederhana dari sistem tersebut.
+Untuk menjawab permasalahan bisnis tersebut, kita akan menggunakan data yang telah dikumpulkan tersebut untuk mengembangkan sebuah sistem berbasis machine learning untuk memprediksi risiko kredit dari seorang pelanggan. Pada proses pengembangannya, kita akan bereksperimen dengan berbagai pendekatan atau algoritma machine learning serta membandingkannya untuk memperoleh model dengan performa terbaik, kemudian kita kembangkan sebuah prototipe sederhana dari sistem tersebut.
 
 ### Persiapan
 
@@ -38,7 +38,7 @@ Setup environment:
 ```
 streamlit run app.py
 ```
-Link Streamlit App Prediction: [Streamlit Web App](https://credit-score-segmentation.streamlit.app/)
+Link Streamlit App Prototype: [Prototype](https://credit-score-segmentation.streamlit.app/)
 
 ## Insight
 
