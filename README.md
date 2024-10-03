@@ -49,3 +49,6 @@ Beberapa insight yang didapat dari hasil Exploratory Data Analysis:
 - Pelanggan yang memiliki credit score baik (Good) cenderung memiliki usia yang lebih tua.
 - Semakin tinggi usia riwayat kredit seorang pelanggan, semakin baik pula credit score yang dimiliki oleh pelanggan tersebut.
 - Pelanggan dengan credit score yang buruk (Poor) cenderung memiliki banyak akun bank, banyak kartu kredit, jumlah utang yang banyak, serta jumlah bunga kartu kredit yang tinggi. Selain itu, mereka juga cenderung untuk melakukan penunggakan pembayaran.
+
+### Jupyter Notebook
+Link Source Code (Jupyter Notebook): [notebook.ipnyb](https://github.com/MuhamadSyarifFakhrezi/Credit-Scoring/blob/main/notebook.ipynb)
